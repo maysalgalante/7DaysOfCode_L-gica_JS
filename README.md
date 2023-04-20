@@ -11,13 +11,13 @@ Este primeiro dia é super importante! Ao final dele, você terá um novo conhec
 Sabe quando você se cadastra em um site e, logo em seguida, quando faz o seu login, ele já te chama pelo seu nome? É isso que você vai fazer no desafio de hoje!
 Quando você cria algum sistema, site ou aplicativo, é comum querer colocar alguns toques personalizados para tornar a experiência na sua aplicação mais rica e dinâmica.Fazer isso através da programação pode não ser uma tarefa muito fácil. Dependendo do nível de customização que você quiser implementar, a quantidade de código que você precisará escrever pode ser imensa.Mas é claro que você pode começar de uma maneira mais simples. Para isso, o importante é entender como capturar e armazenar valores dentro de variáveis. Variáveis são os blocos básicos de construção de qualquer sistema e são essenciais para processar qualquer tipo de informação, seja ela de uma pessoa logada no sistema ou mesmo para exibir detalhes de produtos em um catálogo de e-commerce.
 ##
-* **DIA 3 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/d99ec9e98cacf438f25b70c432a62d5ed9f26796/dia2.js)<br> 
+* **DIA 3 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/8dcefe7964d23a614d426f8391403163f83b8117/dia3.js)<br> 
 ##
-* **DIA 4 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/d99ec9e98cacf438f25b70c432a62d5ed9f26796/dia2.js)<br> 
+* **DIA 4 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/8dcefe7964d23a614d426f8391403163f83b8117/dia4.js)<br> 
 ##
-* **DIA 5 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/d99ec9e98cacf438f25b70c432a62d5ed9f26796/dia2.js)<br> 
+* **DIA 5 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/8dcefe7964d23a614d426f8391403163f83b8117/dia5.js)<br> 
 ##
-* **DIA 6 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/d99ec9e98cacf438f25b70c432a62d5ed9f26796/dia2.js)<br> 
+* **DIA 6 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/8dcefe7964d23a614d426f8391403163f83b8117/dia6.js)<br> 
 ##
-* **DIA 7 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/d99ec9e98cacf438f25b70c432a62d5ed9f26796/dia2.js)<br> 
+* **DIA 7 - ??** | ✅ [Em andamento](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/8dcefe7964d23a614d426f8391403163f83b8117/dia7.js)<br> 
 ##
