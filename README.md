@@ -4,7 +4,7 @@
 
 ### 1. Lógica JS
 
-* **DIA 1 - Operações Booleanas** | ✅ [Finalizado](https://github.com/luisatriers/7DaysOfCode/blob/main/LogicaDeProgramacao/diaUm.js)<br> 
+* **DIA 1 - Operações Booleanas** | ✅ [Finalizado](https://github.com/maysalgalante/7DaysOfCode_Logica_JS/blob/ccc3f06c0cae2e6ee6676f78bdcc76cfbbf02060/dia1.js)<br> 
 Este primeiro dia é super importante! Ao final dele, você terá um novo conhecimento que é essencial para os próximos desafios.
 
 Existe uma situação super comum para quem utiliza o Javascript: problemas com os tipos de variáveis na hora de comparar os valores de duas variáveis entre si. Eu já passei muito por isso!
