@@ -1,4 +1,4 @@
-onst numeroAdivinhacao = Math.floor(Math.random() * (10 - 0 + 1) + 0);
+const numeroAdivinhacao = Math.floor(Math.random() * (10 - 0 + 1) + 0);
 let chute = "";
 let acertou = false;
 
